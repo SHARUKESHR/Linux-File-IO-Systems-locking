@@ -21,8 +21,8 @@ Execute the C Program for the desired output.
 
 ## PROGRAM :
 
-### DEVELOPED BY : MOHAMMAD FAIZAL SK
-### REG NO : 212223240092
+### DEVELOPED BY : SHARUKESH R
+### REG NO : 212223220106
 
 ## 1.To Write a C program that illustrates files copying 
 
